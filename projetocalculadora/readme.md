@@ -41,15 +41,7 @@ Tkinter (biblioteca padrão para GUI)
 
 
 
-💡 Próximos passos
 
-Adicionar histórico de cálculos
-
-Criar atalhos de teclado (ex.: usar Enter para calcular, Esc para limpar)
-
-Melhorar o design com diferentes estilos e temas
-
-Evoluir para uma versão científica com mais funções
 
 
 
